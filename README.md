@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of qx-css/anniu.** Not for installation: use [Packagist](https://packagist.org/packages/qx-css/anniu) or the [upstream repository](https://github.com/qx-css/anniu).
 
-**0** versions archived · Latest: [`1.0`](https://github.com/flarchive/qx-css-anniu/tree/archive/v1.0) · License: `MIT` · Flarum: `^1.0`
+**1** versions archived · Latest: [`1.0`](https://github.com/flarchive/qx-css-anniu/tree/archive/v1.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2026-01-17 | `^1.0` | [Browse](https://github.com/flarchive/qx-css-anniu/tree/archive/v1.0) |
 
 Catalog entry: [packages/qx-css-anniu.json](https://github.com/flarchive/archive-index/blob/main/packages/qx-css-anniu.json)
 
